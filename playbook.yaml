@@ -1,5 +1,5 @@
 ---
-- name: Play for Install Naginx on WebServers
+- name: Play for Install Nginx on WebServers
   hosts: loclhost
   gather_facts: yes
   vars:
